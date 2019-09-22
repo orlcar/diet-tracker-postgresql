@@ -1,0 +1,9 @@
+.bg-white{
+    background:#ffffff;
+}
+table th {
+   text-align: center; 
+}
+table td.tableBtn{
+   text-align: center; 
+}
