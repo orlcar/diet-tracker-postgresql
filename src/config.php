@@ -7,7 +7,7 @@ $db_url = parse_url(getenv("DATABASE_URL"));
 $db_url["path"] = ltrim($db_url["path"], "/");
 
 // Define SSL mode for database URL
-$db_url["sslmode"] = "require"
+$db_url["sslmode"] = "require";
 
 
 // Set up PostgreSQL connection variables
