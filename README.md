@@ -17,7 +17,7 @@ Heroku's Apache2 server is used to run the diet tracker website.
 * Convert the MySQL code to PostgreSQL in the PHP files
 * Debug the website using the built-in PHP server
 * Access Heroku's PostgreSQL database using pgAdmin4
-* Dump the PostgreSQL diet tracker datbase and import to Heroku's PostgreSQL database
+* Dump the PostgreSQL diet tracker database and import to Heroku's PostgreSQL database
 * Set up Heroku's dependencies (composer.json, Procfile) and deploy the diet tracker website to Heroku
 
 ## Credits
